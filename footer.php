@@ -11,6 +11,10 @@
 
 ?>
 	<footer>
+
+        <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+        <div class="elfsight-app-bfaf7bec-3b0f-4da5-81b5-93c120668c59"></div> -->
+
         <script type="text/javascript">var recaptchaWidgets = [];
             var recaptchaCallback = function() {
                 var forms = document.getElementsByTagName( 'form' );
